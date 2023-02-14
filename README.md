@@ -1,4 +1,4 @@
-# :gift: neosnippet-kaomoji :gift:
+# :gift: neosnippet-emoji :gift:
 
 This allows you and Vim to input kaomoji characters via [neosnippet.vim](https://github.com/Shougo/neosnippet.vim).
 
